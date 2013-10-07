@@ -14,9 +14,22 @@ you need laid out for you.
 # Pics or it didn't happen
 
 ### harlem-nights
+![img](/resources/screenshots/harlem-nights.png)
+
 ### honeybadger
+![img](/resources/screenshots/honeybadger.png)
+
 ### kunckleduster
+![img](/resources/screenshots/knuckleduster.png)
+
 ### milquetoast
+![img](/resources/screenshots/milquetoast.png)
+
 ### party-liquor
+![img](/resources/screenshots/party-liquor.png)
+
 ### pop-rocks
+![img](/resources/screenshots/pop-rocks.png)
+
 ### understated
+![img](/resources/screenshots/understated.png)
