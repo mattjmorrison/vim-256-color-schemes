@@ -59,17 +59,17 @@ hi MoreMsg         ctermbg=none   ctermfg=15    cterm=bold
 
 " Visual aid {{{1
 " --------------------------------
-hi MatchParen      ctermbg=none   ctermfg=234   cterm=none
-hi Visual          ctermbg=59     ctermfg=none  cterm=none
-hi VisualNOS       ctermbg=210    ctermfg=236   cterm=bold
-hi NonText         ctermbg=none   ctermfg=240   cterm=none
-hi Todo            ctermbg=234    ctermfg=108   cterm=bold
-hi Underlined      ctermbg=234    ctermfg=188   cterm=bold
-hi Error           ctermbg=95     ctermfg=228   cterm=none
-hi ErrorMsg        ctermbg=236    ctermfg=115   cterm=bold
-hi WarningMsg      ctermbg=236    ctermfg=15    cterm=bold
-hi Ignore          ctermfg=none   ctermbg=none  cterm=none
-hi SpecialKey      ctermfg=151    ctermbg=none  cterm=none
+hi MatchParen      ctermfg=108    ctermbg=236    cterm=none
+hi Visual          ctermfg=none   ctermbg=59     cterm=none
+hi VisualNOS       ctermfg=236    ctermbg=210    cterm=bold
+hi NonText         ctermfg=240    ctermbg=none   cterm=none
+hi Todo            ctermfg=108    ctermbg=234    cterm=bold
+hi Underlined      ctermfg=105    ctermbg=237    cterm=underline
+hi Error           ctermfg=228    ctermbg=95     cterm=none
+hi ErrorMsg        ctermfg=115    ctermbg=236    cterm=bold
+hi WarningMsg      ctermfg=15     ctermbg=236    cterm=bold
+hi Ignore          ctermfg=none   ctermbg=none   cterm=none
+hi SpecialKey      ctermfg=151    ctermbg=none   cterm=none
 " }}}
 
 " Variable types {{{1
