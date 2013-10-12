@@ -187,6 +187,12 @@ hi clojureMeta            ctermfg=109    ctermbg=none   cterm=none
 hi clojureDeref           ctermfg=109    ctermbg=none   cterm=none
 hi clojureAnonArg         ctermfg=109    ctermbg=none   cterm=none
 hi clojureDispatch        ctermfg=109    ctermbg=none   cterm=none
+hi SyntasticError         ctermfg=52     ctermbg=none   cterm=underline,bold 
+hi SyntasticWarning       ctermfg=94     ctermbg=none   cterm=underline,bold
+" hi SyntasticStyleErrorLine    ctermfg=94     ctermbg=none   cterm=bold
+" hi SyntasticErrorLine         ctermfg=94     ctermbg=none   cterm=bold
+" hi SyntasticStyleWarningLine  ctermfg=94     ctermbg=none   cterm=bold
+" hi SyntasticWarningLine       ctermfg=94     ctermbg=none   cterm=bold
 " }}}
 
 " vim: fdm=marker
