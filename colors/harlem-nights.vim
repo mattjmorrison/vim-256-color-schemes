@@ -65,7 +65,7 @@ hi MatchParen      ctermfg=none   ctermbg=239    cterm=none
 hi Visual          ctermfg=none   ctermbg=239    cterm=none
 hi VisualNOS       ctermfg=none   ctermbg=none   cterm=bold,underline
 hi NonText         ctermfg=239    ctermbg=none   cterm=none
-hi Todo            ctermfg=245    ctermbg=235    cterm=none
+hi Todo            ctermfg=245    ctermbg=234    cterm=bold
 hi Underlined      ctermfg=5      ctermbg=none   cterm=underline
 hi Error           ctermfg=15     ctermbg=9      cterm=none
 hi ErrorMsg        ctermfg=15     ctermbg=1      cterm=none
@@ -96,7 +96,7 @@ hi Label           ctermfg=250    ctermbg=none   cterm=none
 hi Operator        ctermfg=109    ctermbg=none   cterm=none
 hi Keyword         ctermfg=250    ctermbg=none   cterm=none
 hi Exception       ctermfg=250    ctermbg=none   cterm=none
-hi Comment         ctermfg=245    ctermbg=none   cterm=none
+hi Comment         ctermfg=101    ctermbg=none   cterm=none
 hi Special         ctermfg=250    ctermbg=none   cterm=none
 hi SpecialChar     ctermfg=none   ctermbg=none   cterm=none
 hi Tag             ctermfg=none   ctermbg=none   cterm=none
