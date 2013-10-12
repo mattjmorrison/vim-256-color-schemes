@@ -28,8 +28,8 @@ hi CursorLineNR    ctermfg=130    ctermbg=none   cterm=none
 " --------------------------------
 hi CursorColumn    ctermfg=none   ctermbg=236    cterm=none
 hi FoldColumn      ctermfg=4      ctermbg=235    cterm=none
-hi SignColumn      ctermfg=4      ctermbg=235    cterm=none
-hi Folded          ctermfg=245    ctermbg=235    cterm=none
+hi SignColumn      ctermfg=4      ctermbg=237    cterm=none
+hi Folded          ctermfg=245    ctermbg=236    cterm=none
 " }}}
 
 " Window/Tab delimiters {{{1
@@ -136,10 +136,10 @@ hi PmenuThumb      ctermbg=0      ctermbg=none   cterm=none
 
 " Spelling {{{1
 " -------------------------------
-hi SpellBad        ctermfg=none   ctermbg=224    cterm=none
-hi SpellCap        ctermfg=none   ctermbg=81     cterm=none
-hi SpellLocal      ctermfg=none   ctermbg=14     cterm=none
-hi SpellRare       ctermfg=none   ctermbg=225    cterm=none
+hi SpellBad        ctermfg=124    ctermbg=236    cterm=underline
+hi SpellCap        ctermfg=20     ctermbg=236    cterm=underline
+hi SpellLocal      ctermfg=20     ctermbg=236    cterm=underline
+hi SpellRare       ctermfg=20     ctermbg=236    cterm=underline
 " }}}
 
 " Specific settings {{{1
