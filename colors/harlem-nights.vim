@@ -187,7 +187,7 @@ hi clojureMeta            ctermfg=109    ctermbg=none   cterm=none
 hi clojureDeref           ctermfg=109    ctermbg=none   cterm=none
 hi clojureAnonArg         ctermfg=109    ctermbg=none   cterm=none
 hi clojureDispatch        ctermfg=109    ctermbg=none   cterm=none
-hi WikiLink               ctermfg=21     ctermbg=none   cterm=underline
+hi WikiLink               ctermfg=69     ctermbg=none   cterm=underline
 hi markdownLinkText       ctermfg=160    ctermbg=none   cterm=underline
 " }}}
 
