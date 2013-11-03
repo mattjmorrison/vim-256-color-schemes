@@ -65,7 +65,7 @@ hi MatchParen      ctermfg=none   ctermbg=239    cterm=none
 hi Visual          ctermfg=none   ctermbg=239    cterm=none
 hi VisualNOS       ctermfg=none   ctermbg=none   cterm=bold,underline
 hi NonText         ctermfg=239    ctermbg=none   cterm=none
-hi Todo            ctermfg=245    ctermbg=234    cterm=bold
+hi Todo            ctermfg=245    ctermbg=235    cterm=none
 hi Underlined      ctermfg=5      ctermbg=none   cterm=underline
 hi Error           ctermfg=15     ctermbg=9      cterm=none
 hi ErrorMsg        ctermfg=15     ctermbg=1      cterm=none
@@ -96,7 +96,7 @@ hi Label           ctermfg=250    ctermbg=none   cterm=none
 hi Operator        ctermfg=109    ctermbg=none   cterm=none
 hi Keyword         ctermfg=250    ctermbg=none   cterm=none
 hi Exception       ctermfg=250    ctermbg=none   cterm=none
-hi Comment         ctermfg=101    ctermbg=none   cterm=none
+hi Comment         ctermfg=245    ctermbg=none   cterm=none
 hi Special         ctermfg=250    ctermbg=none   cterm=none
 hi SpecialChar     ctermfg=none   ctermbg=none   cterm=none
 hi Tag             ctermfg=none   ctermbg=none   cterm=none
@@ -187,12 +187,8 @@ hi clojureMeta            ctermfg=109    ctermbg=none   cterm=none
 hi clojureDeref           ctermfg=109    ctermbg=none   cterm=none
 hi clojureAnonArg         ctermfg=109    ctermbg=none   cterm=none
 hi clojureDispatch        ctermfg=109    ctermbg=none   cterm=none
-hi SyntasticError         ctermfg=52     ctermbg=none   cterm=underline,bold 
-hi SyntasticWarning       ctermfg=94     ctermbg=none   cterm=underline,bold
-" hi SyntasticStyleErrorLine    ctermfg=94     ctermbg=none   cterm=bold
-" hi SyntasticErrorLine         ctermfg=94     ctermbg=none   cterm=bold
-" hi SyntasticStyleWarningLine  ctermfg=94     ctermbg=none   cterm=bold
-" hi SyntasticWarningLine       ctermfg=94     ctermbg=none   cterm=bold
+hi WikiLink               ctermfg=21     ctermbg=none   cterm=underline
+hi markdownLinkText       ctermfg=160    ctermbg=none   cterm=underline
 " }}}
 
 " vim: fdm=marker
