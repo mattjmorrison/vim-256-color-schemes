@@ -120,10 +120,10 @@ hi Typedef         ctermfg=none   ctermbg=none   cterm=none
 
 " Diff {{{1
 " -------------------------------
-hi DiffAdd         ctermfg=none   ctermbg=81     cterm=none
-hi DiffChange      ctermfg=none   ctermbg=225    cterm=none
-hi DiffDelete      ctermfg=12     ctermbg=159    cterm=none
-hi DiffText        ctermfg=none   ctermbg=9      cterm=bold
+hi DiffAdd         ctermfg=66     ctermbg=237   cterm=bold
+hi DiffChange      ctermfg=none   ctermbg=236   cterm=none
+hi DiffDelete      ctermfg=236    ctermbg=238   cterm=none
+hi DiffText        ctermfg=217    ctermbg=237   cterm=bold
 " }}}
 
 " Completion menu {{{1
