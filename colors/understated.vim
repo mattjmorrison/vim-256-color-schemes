@@ -106,7 +106,7 @@ hi Debug           ctermfg=181    ctermbg=none  cterm=bold
 " C like {{{1
 " -------------------------------
 hi PreProc         ctermfg=223    ctermbg=none  cterm=bold
-hi Include         ctermfg=none   ctermbg=none  cterm=none
+hi Include         ctermfg=116    ctermbg=none  cterm=none
 hi Define          ctermfg=223    ctermbg=none  cterm=bold
 hi Macro           ctermfg=223    ctermbg=none  cterm=bold
 hi PreCondit       ctermfg=180    ctermbg=none  cterm=bold
