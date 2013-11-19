@@ -62,7 +62,7 @@ hi MoreMsg         ctermfg=229    ctermbg=none   cterm=none
 " Visual aid {{{1
 " --------------------------------
 hi MatchParen      ctermfg=16     ctermbg=208    cterm=bold
-hi Visual          ctermfg=none   ctermbg=235    cterm=none
+hi Visual          ctermfg=none   ctermbg=238    cterm=none
 hi VisualNOS       ctermfg=none   ctermbg=238    cterm=none
 hi NonText         ctermfg=59     ctermbg=none   cterm=none
 hi Todo            ctermfg=231    ctermbg=232    cterm=bold
@@ -108,14 +108,14 @@ hi Debug           ctermfg=225    ctermbg=none   cterm=bold
 " C like {{{1
 " -------------------------------
 hi PreProc         ctermfg=118    ctermbg=none   cterm=none
-hi Include         ctermfg=none   ctermbg=none   cterm=none
+hi Include         ctermfg=81     ctermbg=none   cterm=none
 hi Define          ctermfg=81     ctermbg=none   cterm=none
 hi Macro           ctermfg=193    ctermbg=none   cterm=none
 hi PreCondit       ctermfg=118    ctermbg=none   cterm=bold
 hi Type            ctermfg=81     ctermbg=none   cterm=none
 hi StorageClass    ctermfg=208    ctermbg=none   cterm=none
-hi Structure       ctermfg=81     ctermbg=none   cterm=none 
-hi Typedef         ctermfg=81     ctermbg=none   cterm=none 
+hi Structure       ctermfg=81     ctermbg=none   cterm=none
+hi Typedef         ctermfg=81     ctermbg=none   cterm=none
 " }}}
 
 " Diff {{{1
@@ -128,18 +128,18 @@ hi DiffText        ctermfg=none   ctermbg=102    cterm=bold
 
 " Completion menu {{{1
 " -------------------------------
-hi Pmenu           ctermfg=81    ctermbg=16      cterm=none 
-hi PmenuSel        ctermfg=81    ctermbg=244     cterm=none 
-hi PmenuSbar       ctermfg=none  ctermbg=232     cterm=none 
-hi PmenuThumb      ctermfg=81    ctermbg=none    cterm=none  
+hi Pmenu           ctermfg=81    ctermbg=16      cterm=none
+hi PmenuSel        ctermfg=81    ctermbg=244     cterm=none
+hi PmenuSbar       ctermfg=none  ctermbg=232     cterm=none
+hi PmenuThumb      ctermfg=81    ctermbg=none    cterm=none
 " }}}
 
 " Spelling {{{1
 " -------------------------------
-hi SpellBad        ctermfg=none   ctermbg=none   cterm=none
-hi SpellCap        ctermfg=none   ctermbg=none   cterm=none
-hi SpellLocal      ctermfg=none   ctermbg=none   cterm=none
-hi SpellRare       ctermfg=none   ctermbg=none   cterm=none
+hi SpellBad        ctermfg=196    ctermbg=none   cterm=underline
+hi SpellCap        ctermfg=93     ctermbg=none   cterm=underline
+hi SpellLocal      ctermfg=93     ctermbg=none   cterm=underline
+hi SpellRare       ctermfg=93     ctermbg=none   cterm=underline
 " }}}
 
 " vim: fdm=marker
