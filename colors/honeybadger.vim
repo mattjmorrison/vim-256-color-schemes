@@ -136,10 +136,10 @@ hi PmenuThumb      ctermbg=15     ctermbg=none   cterm=none
 
 " Spelling {{{1
 " -------------------------------
-hi SpellBad        ctermbg=9      ctermbg=none   cterm=none
-hi SpellCap        ctermbg=12     ctermbg=none   cterm=none
-hi SpellLocal      ctermbg=14     ctermbg=none   cterm=none
-hi SpellRare       ctermbg=13     ctermbg=none   cterm=none
+hi SpellBad        ctermfg=9      ctermbg=none   cterm=underline
+hi SpellCap        ctermfg=9      ctermbg=none   cterm=underline
+hi SpellLocal      ctermfg=9      ctermbg=none   cterm=underline
+hi SpellRare       ctermfg=9      ctermbg=none   cterm=underline
 " }}}
 
 " Specific settings {{{1
